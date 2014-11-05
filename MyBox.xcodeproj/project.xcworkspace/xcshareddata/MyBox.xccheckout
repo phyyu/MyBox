@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D026F6C-57E2-4EFD-B906-5F38B435C1F4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyBox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E52CFE5-B62F-4F34-B781-C7ECC3F6804E</key>
+		<string>https://github.com/phyyu/MyBox.git</string>
+		<key>BD2A1A64-5F59-4B75-84F5-6A75B92BBD17</key>
+		<string>https://github.com/phyyu/MyBox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyBox.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E52CFE5-B62F-4F34-B781-C7ECC3F6804E</key>
+		<string>../../MyBox</string>
+		<key>BD2A1A64-5F59-4B75-84F5-6A75B92BBD17</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/phyyu/MyBox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD2A1A64-5F59-4B75-84F5-6A75B92BBD17</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD2A1A64-5F59-4B75-84F5-6A75B92BBD17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyBox</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E52CFE5-B62F-4F34-B781-C7ECC3F6804E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyBox</string>
+		</dict>
+	</array>
+</dict>
+</plist>
